@@ -1,4 +1,4 @@
-//Program to rotate an array cyclically by one
+//Program to rotate an array cyclically by one clockwise
 
 #include<iostream>
 
