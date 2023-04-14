@@ -10,4 +10,6 @@ Code 3 - To find Kth Smallest and Largest element in an array.
 
 Code 4 - To sort an array containing 0, 1 and 2 without using sorting algorithm.
 
-Code 5 - 
+Code 5 - To find union and intersection of two sets.
+
+Code 6 - To rotate an array cyclically clockwise by one.
