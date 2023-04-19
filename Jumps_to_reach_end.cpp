@@ -18,8 +18,7 @@ int main()
     {
         if (a[j] == 0)
         {
-            cout << "Can't reach the end!";
-            break;
+            cout << "Can't reach the end!"<< endl;
         }
         else
         {

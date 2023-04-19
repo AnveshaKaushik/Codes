@@ -34,9 +34,9 @@ int main()
     }
     
     //Union
+    cout << "Union:" <<endl;
     int k = 0;
     int c[k];
-    cout<<"Union: "<<endl;
 
    for(int i=0;i<n;i++)
    {
@@ -71,6 +71,8 @@ int main()
    printf("Union of set A and B is:-\n");
     for(int i=0;i<k;i++)
       printf("%d ",c[i]);
+        }
+    }
 
 
     return 0;
